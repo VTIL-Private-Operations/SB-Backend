@@ -1,7 +1,8 @@
-# REPRO NAME HERE
-DESCRIPTION HERE
+# Script Builder Backend
+A Node.js backend and a bot for a game called Private SB on Roblox.
 
-# NOTICE HERE
-NOTICE TEXT HERE
-# CREATORS HERE
-CREATORS BLOG/PORTFOLIO LINKS HERE
+# Creators
+Private SB:
+- Forked from Anti's Script Builder
+- Created by: AntiBoomz0r
+- Fixed and Reuploaded by: ErringPaladin10
